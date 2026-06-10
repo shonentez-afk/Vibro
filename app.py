@@ -7,7 +7,7 @@ from scipy import signal
 from scipy.fft import fft, fftfreq
 import random
 
-st.set_page_config(page_title="🔧 AI Вибродиагностика PRO", layout="wide", page_icon="🔧")
+st.set_page_config(page_title="🔧 Вибродиагностика", layout="wide", page_icon="🔧")
 
 # ============================================================
 # БАЗА ЗНАНИЙ ИЗ КНИГИ (12 разделов + 4 приложения)
